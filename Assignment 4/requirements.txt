@@ -36,7 +36,7 @@ kaggle-cli==0.12.13
 Keras==2.1.6
 kiwisolver==1.0.1
 livelossplot==0.1.7
-lxml==4.2.1
+lxml==4.6.3
 Markdown==2.6.11
 MarkupSafe==1.0
 matplotlib==2.2.2
